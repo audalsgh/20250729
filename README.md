@@ -3,7 +3,8 @@
 ## 앙상블 방식으로 피플넷 + 트래픽넷 + YOLOv11 통합해보기
 [PeopleNet 코드에서 JSON 사용 이유](https://docs.google.com/document/d/1SnvIRPLFytKIlkodnae1Oy3yTGx06QKs6U2mvX7UhUw/edit?tab=t.0#heading=h.7bz91vm5rr3n)<br>
 [NVIDIA API키 얻는 링크](https://org.ngc.nvidia.com/setup/api-keys)<br>
-[교수님의 코드]()
+[교수님의 코드](runpod_peoplenet.ipynb)<br>
+
 runpod에서 실습해볼땐, 교수님이 주신코드를 활용하고 api키는 내것으로 써야한다.<br> 
 <img width="276" height="349" alt="image" src="https://github.com/user-attachments/assets/1809e4a5-c531-4bf5-bb4b-b1e66e675885" /><br>
 <img width="1388" height="835" alt="image" src="https://github.com/user-attachments/assets/b5642df7-2700-43c1-b6d1-80f7062f5543" /><br>
