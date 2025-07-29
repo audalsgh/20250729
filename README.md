@@ -44,7 +44,7 @@ runpod에서 실습해볼땐, 교수님이 주신코드를 활용하고 api키�
 - CCTV 영상 내 실시간 이상 행동 모니터링
 - 스마트 시티 안전 시스템
 
-Colab에 다운받은 Peoplenet 모델을 직접 업로드 → 추론 테스트 → 영상에 사람 감지 표시하는 코드 짜기<br>
+### 챗GPT로, Colab에 다운받은 Peoplenet 모델을 직접 업로드 → 추론 테스트 → 영상에 사람 감지 표시하는 코드 실습<br>
 <img width="701" height="171" alt="image" src="https://github.com/user-attachments/assets/ced10690-4e96-4bef-bf65-90fa67de42c8" /><br>
 다운받은 Peoplenet.onnx 파일을 직접 업로드하도록 짰다.<br>
 <img width="1179" height="670" alt="image" src="https://github.com/user-attachments/assets/4b69cffc-5d89-4430-9a46-793bea520409" /><br>
