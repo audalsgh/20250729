@@ -8,6 +8,8 @@
 1. 먼저 NVIDIA TAO Toolkit에서 제공하는 사전 학습된 "인물 탐지 모델"인 피플넷부터 사용해보자.<br>
 [peoplenet파일 다운로드 링크](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/peoplenet)<br>
 Colab에 다운받은 Peoplenet 모델을 직접 업로드 → 추론 테스트 → 영상에 사람 감지 표시하는 코드 짜기<br>
+<img width="701" height="171" alt="image" src="https://github.com/user-attachments/assets/ced10690-4e96-4bef-bf65-90fa67de42c8" /><br>
+다운받은 Peoplenet.onnx 파일을 직접 업로드하도록 짰다.<br>
 <img width="1179" height="670" alt="image" src="https://github.com/user-attachments/assets/4b69cffc-5d89-4430-9a46-793bea520409" /><br>
 되긴했는데 YOLO처럼 정확한 성능을 뽐내진 못했다. 코드를 잘 못짠건지, 모델이 잘못된걸수도 있음.
 
